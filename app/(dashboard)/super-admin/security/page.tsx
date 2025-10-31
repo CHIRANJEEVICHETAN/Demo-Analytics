@@ -1,7 +1,7 @@
 "use client"
 
 import { SecurityOverviewCards } from "@/components/super-admin/security/overview-cards"
-import { SecurityTabs } from "@/components/super-admin/security/security-tabs"
+import { SecurityTabs } from "@/components/super-admin/security/security-table"
 
 export default function SecurityPage() {
   return (
